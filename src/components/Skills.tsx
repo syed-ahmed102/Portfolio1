@@ -2,12 +2,12 @@ import React from 'react'
 
 const Skills = () => {
   return (
-    <div id='skills' className='container pt-32'>
+    <div id="skills" className='container pt-32'>
         <div className='grid md:grid-cols-2 gap-20 items-center'>
             <div data-aos="zoom-in-up">
                 <h2 className='text-4xl md:text-5xl'>Technologies I work with</h2>
                 <p className='text-white-500 pt-2'>
-                As a beginner developer, you're stepping into an exciting world of technology 
+                As a beginner developer, you are stepping into an exciting world of technology 
                 and creativity. Learning to code opens up endless possibilities for building 
                 applications, solving real-world problems, and bringing your ideas to life. 
                 Starting with the basics of programming languages, you’ll gradually develop 
